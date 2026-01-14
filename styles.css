@@ -24,15 +24,15 @@ animation-timing-function: cubic-bezier(0.25, 0.85, 0.4, 1);
 .prinzessin mark:nth-child(10) { animation-delay:1.8s; display:inline-block;}
 
 @-webkit-keyframes princess {
-from { transform:scale(0.90); color:black; }
-50% { transform:scale(1); color:hotpink; }
-to { transform:scale(0.90); color:black; }
+from { transform:scale(0.40); color:RebeccaPurple; }
+50% { transform:scale(10); color:hotpink; }
+to { transform:scale(0.40); color:RebeccaPurple; }
 }
 
 @keyframes princess {
-from { transform:scale(0.90); color:black; }
-50% { transform:scale(1); color:hotpink; }
-to { transform:scale(0.90); color:black; }
+from { transform:scale(0.40); color:RebeccaPurple; }
+50% { transform:scale(10); color:hotpink; }
+to { transform:scale(0.40); color:RebeccaPurple; }
 }
 
 .container {
