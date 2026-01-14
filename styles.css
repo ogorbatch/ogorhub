@@ -25,13 +25,13 @@ animation-timing-function: cubic-bezier(0.25, 0.85, 0.4, 1);
 
 @-webkit-keyframes princess {
 from { transform:scale(0.60); color:RebeccaPurple; }
-50% { transform:scale(1.5); color:hotpink; }
+50% { transform:scale(1); color:hotpink; }
 to { transform:scale(0.60); color:RebeccaPurple; }
 }
 
 @keyframes princess {
 from { transform:scale(0.60); color:RebeccaPurple; }
-50% { transform:scale(1.5); color:hotpink; }
+50% { transform:scale(1); color:hotpink; }
 to { transform:scale(0.60); color:RebeccaPurple; }
 }
 
