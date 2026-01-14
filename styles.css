@@ -47,7 +47,7 @@ to { transform:scale(0.60); color:RebeccaPurple; }
 
 .header {
     flex-direction: column;
-    height: 500px;
+    height: 200px;
     width: 1000px;
     background-color: rgba(0, 0, 0, 0.8);
     border-radius: 10px;
@@ -58,7 +58,7 @@ to { transform:scale(0.60); color:RebeccaPurple; }
 
 .main {
     text-align: center;
-    height: 200px;
+    height: 500px;
     width: 1000px;
     background-color: rgba(0, 0, 0, 0.8);
     border-radius: 10px;
