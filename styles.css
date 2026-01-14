@@ -1,8 +1,8 @@
 body {
-    background-image: url('https://media.discordapp.net/attachments/1330120909297680407/1460907715676209379/image.png?ex=69689fd5&is=69674e55&hm=33892312a51148a95e62bda3fff5471bf411f3589e59343ab7da242b6a7605f8&=&format=webp&quality=lossless');
+    background-image: url('https://cdn.discordapp.com/attachments/1033667286688595979/1461004140799852718/adwdvt.gif?ex=6968f9a3&is=6967a823&hm=bd07333ca4272d001eea8f48c18216061eddade38b3e83eadcfce64ef1768aa7&');
 }
 
-.ogortitle { 
+#ogortitle { 
 font-family: arial;
 font-size:2em;
 font-weight:bold;
@@ -34,3 +34,35 @@ from { transform:scale(0.90); color:black; }
 50% { transform:scale(1); color:hotpink; }
 to { transform:scale(0.90); color:black; }
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding: 5px;
+    width: 1000px;
+    align-items: center;
+    margin: auto;
+}
+
+.header {
+    flex-direction: column;
+    height: 200px;
+    width: 1000px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    height: 2000px;
+    width: 1000px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    color: white;
+}
+
+
