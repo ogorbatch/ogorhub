@@ -65,4 +65,9 @@ to { transform:scale(0.60); color:RebeccaPurple; }
     color: white;
 }
 
+a {
+  color: hotpink;
+  font-weight: bold;
+}
+
 
