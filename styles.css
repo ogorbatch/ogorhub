@@ -58,16 +58,26 @@ to { transform:scale(0.60); color:RebeccaPurple; }
 
 .main {
     text-align: center;
-    height: 2000px;
+    height: 800px;
     width: 1000px;
     background-color: rgba(0, 0, 0, 0.8);
     border-radius: 10px;
     color: white;
 }
 
+.footer {
+    text-align: center;
+    width: 1000px;
+    color: white;
+    font-size: 24px;
+}
+
+
 a {
   color: hotpink;
   font-weight: bold;
 }
+
+
 
 
