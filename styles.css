@@ -7,7 +7,7 @@ font-family: arial;
 font-size:2em;
 font-weight:bold;
 background: none;
-color:black;
+color:RebeccaPurple;
 animation: princess 2s infinite;
 animation-timing-function: cubic-bezier(0.25, 0.85, 0.4, 1);
 }
