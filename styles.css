@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://cdn.discordapp.com/attachments/1033667286688595979/1461004140799852718/adwdvt.gif?ex=6968f9a3&is=6967a823&hm=bd07333ca4272d001eea8f48c18216061eddade38b3e83eadcfce64ef1768aa7&');
+    background-image: url("ogorbatchground.gif");
 }
 
 #ogortitle { 
@@ -76,12 +76,23 @@ to { transform:scale(0.60); color:RebeccaPurple; }
 
 }
 
+#news {
+    text-align: left;
+    flex-direction: row;
+    display: flex;
+}
+
 
 a {
   color: MediumPurple;
   font-weight: bold;
 }
 
+p {
+    font-size: 20px;
+}
 
-
+#links {
+    font-size: 14px;
+}
 
