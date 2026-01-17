@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="styles.css" />
-        <link rel="icon" href="icon.ico">
-        <link rel="icon" type="image/png" sizes="32x32" href="Screenshot 2025-01-18 215743.png">
-        <title>Ogorclub</title>
-    </head>
-    <body>
+<head>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="icon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="Screenshot 2025-01-18 215743.png">
+    <title>Ogorclub</title>
+</head>
+<body>
     <div class="container">
         <div class="header">
             <div id="ogortitle"><h1>welcome to the ogorclub!</h1></div>
@@ -18,13 +18,27 @@
             <h1>Watch our latest video!</h1>
             <iframe width="315" height="560" src="https://youtube.com/embed/I9L-4KFeQNU?si=jS5EhxGYzCu9C3WT"></iframe>
             <p>oh wait... </p>
-            <h1>Breaking Ogornews!</h1>
-            <div id="news"><p>The ogorbatch google account was recently just struck down by the google gods. Will the appeal be accepted, or will the the account succumb to the alleged violation of google policies? - We'll keep you updated. <br> Find out next time: why do ogorshorts get so many dislikes?</p>
-                <img src="https://cdn.discordapp.com/attachments/1461161073481879634/1461565023460655274/image.png?ex=696b0400&is=6969b280&hm=0c29bcbf2f8f2ce5ac45fc86a3bd1c83f523afbcac10e4433b105f194cb7b8a0&" width="500px"></div>
+            <hr>
+            <h2 id="ogornews">Breaking ogornews!</h2>
+            <hr>
+            <div id="news">
+                <h1 id="news-title"></h1>
+                <div class="news-nav">
+                    <button id="back-btn" onclick="showPrevious()">←</button>
+                    <p class="news-date" id="news-date"></p>
+                    <button id="next-btn" onclick="showNext()">→</button>
+                </div>
+                <div class="news-content">
+                    <p id="news-content"></p>
+                    <img id="news-img" src="" width="500px">
+                </div>
+            </div>
         </div>
         <div class="footer">
             <a href="https://ogorbatch.atabook.org/">Leave A Comment!</a>
         </div>
     </div>
-    </body>
+
+    <script src="ogornews.js"></script>
+</body>
 </html>

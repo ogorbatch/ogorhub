@@ -76,10 +76,37 @@ to { transform:scale(0.60); color:RebeccaPurple; }
 
 }
 
-#news {
+.news {
+    display: flex;
+    flex-direction: column;
+}
+
+.news-content {
     text-align: left;
     flex-direction: row;
     display: flex;
+    justify-content: space-between;
+}
+
+.news-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#ogornews {
+    color: grey;
+}
+
+button {
+    padding: 0 20px;
+    cursor: pointer;
+
+}
+
+#back-btn, #next-btn {
+    align-self: center;
+    padding: 3px 20px;
 }
 
 
