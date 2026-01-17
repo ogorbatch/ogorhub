@@ -109,6 +109,9 @@ button {
     padding: 3px 20px;
 }
 
+#news-content, #news-img {
+    padding: 10px;
+}
 
 a {
   color: MediumPurple;
