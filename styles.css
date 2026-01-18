@@ -81,10 +81,16 @@ to { transform:scale(0.60); color:RebeccaPurple; }
     flex-direction: column;
 }
 
-.news-content {
+.news-main {
     text-align: left;
     flex-direction: row;
     display: flex;
+    justify-content: space-between;
+}
+
+.news-content {
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 
@@ -109,10 +115,16 @@ button {
     padding: 3px 20px;
 }
 
-#news-content, #news-img {
+#news-img {
     padding: 10px;
+    align-self: flex-start;
 }
 
+#news-content, #news-next {
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
 a {
   color: MediumPurple;
   font-weight: bold;
