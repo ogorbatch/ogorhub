@@ -91,7 +91,6 @@ to { transform:scale(0.60); color:RebeccaPurple; }
 .news-content {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .news-nav {
