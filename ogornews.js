@@ -10,14 +10,14 @@ const newsArticles = [
     {
         title: "Ogorback?",
         content: "<p>In an expected turn of events, the ogorbatch google account, and youtube channel have returned from the depths of hell*. Ogormembers report seeing the google email and being <q>so hyped!</q> for the accounts long awaited return - tragically  it's so NOT ogorback, as they soon were to discover, they were locked out of the account because of <q>too many verification attempts</q>. What spineless traitor could be responsible for this? - we shall never know.</p><p>  This cruel punishment is not one to be taken lightly. and as a response arrived in the mail, delivering the shocking news that it would be a full 168 hours before peace will be returned - the question must be asked, how long can ogorone ogorendure without ogooorgle and ogortube?</p><hr>",
-        next: "Find out next time: will ogorbatch be the first to truely solve dark matter?",
+        next: "Find out next time - is ogorbatch avoiding the dislike situation?",
         date: "18/01/2026",
         image: "images/ogornews18-01.jpg"
     },
      {
         title: "Why do ogorshorts get so many dislikes?",
         content: "<p>With the google gods still chaining ogorbatch down from success, evidence of this topic is slim. Provided by previous ogorbatch discussions, an image was dug up that depicts the second ever ogorchannel video, and it's statistics. With a 64.7% like/dislike ratio, we can see that this is a severely underperfoming video, as the average would range anywhere from 80%-95%. Now what affected the audience's reaction to the masterpiece at hand? Is it merely not to the target audience's liking, or was the video shockingly not a good video?</p><p> To dissect what the viewers were thinking would require a lot of conjecture because there is a lack of evidence to reinforce any point such as <q>comments.</q> Some possible unbiased reasons behind the negative response to the video include:<ul><li>Not enough braincells since they are most likely OW2 players</li><li>Rotted too much to see the beauty</li><li>The video actually was bad? - unlikely</li><li>Accidentally misclicked the like button from being glued to the video - likely</li></ul>",
-        next: "Find out next time: How is ogorbatch dealing with the ogor-deprivation?",
+        next: "Find out next time: will ogorbatch be the first to truely solve dark matter?",
         date: "20/01/2026",
         image: "images/ogornotlikes.png"
     },
