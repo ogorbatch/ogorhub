@@ -14,12 +14,19 @@ const newsArticles = [
         date: "18/01/2026",
         image: "images/ogornews18-01.jpg"
     },
-     {
+    {
         title: "Why do ogorshorts get so many dislikes?",
         content: "<p>With the google gods still chaining ogorbatch down from success, evidence of this topic is slim. Provided by previous ogorbatch discussions, an image was dug up that depicts the second ever ogorchannel video, and it's statistics. With a 64.7% like/dislike ratio, we can see that this is a severely underperfoming video, as the average would range anywhere from 80%-95%. Now what affected the audience's reaction to the masterpiece at hand? Is it merely not to the target audience's liking, or was the video shockingly not a good video?</p><p> To dissect what the viewers were thinking would require a lot of conjecture because there is a lack of evidence to reinforce any point such as <q>comments.</q> Some possible unbiased reasons behind the negative response to the video include:<ul><li>Not enough braincells since they are most likely OW2 players</li><li>Rotted too much to see the beauty</li><li>The video actually was bad? - unlikely</li><li>Accidentally misclicked the like button from being glued to the video - likely</li></ul>",
         next: "Find out next time: will ogorbatch be the first to truely solve dark matter?",
         date: "20/01/2026",
         image: "images/ogornotlikes.png"
+    },
+        {
+        title: "Will ogorbatch be the first to solve dark matter?",
+        content: "<p>It's the question everyone is wondering, so let's find out. <q>nah idr feel like it rn</q> - ogooordsy. well there's your answer, a disappointing, and frankly surprising answer, but what can be done.</p>",
+        next: "Find out next time: How is ogorbatch dealing with the ogor-deprivation",
+        date: "21/01/2026",
+        image: "images/ogorgenius.jpg"
     },
 ]
 
