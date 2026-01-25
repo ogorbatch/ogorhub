@@ -28,6 +28,13 @@ const newsArticles = [
         date: "21/01/2026",
         image: "images/ogorgenius.jpg"
     },
+    {
+        title: "How is ogorbatch dealing with the ogor-deprivation?",
+        content: "<p>a question that has being plaguing the ogorcommunity. how is ogorbatch dealing with the ogor-deprivation? Ogorunimate responded <q>ive been doing some chemistry</q> (see figure a). If i had to be honest, I don't understand what this means in the slightest. Ogoroni Macaroni responded <q>well before I started uploading to tiktok and instagram, I was having pretty bad withdrawals from not being able to produce goated content for the ogorchannel. I was itching all day and couldnt sleep all night</q>. clearly all of ogorbatch is strugling pretty hard (real hard) with the ogor deprivartion. ogooordsy says <q>fuck im hard</q> so as when the ogortube and ogorgoogle is returned is an unkown, and ogorbatch resorts to making a second channel for ogoroblox content. the question must be asked how long would it be before peace is returned? :(</p>",
+        next: "Find out next time: How is ogorbatch dealing with the ogor-deprivation",
+        date: "25/01/2026",
+        image: "images/ogooner.jpg"
+    },
 ]
 
 let newsIndex = newsArticles.length - 1;
