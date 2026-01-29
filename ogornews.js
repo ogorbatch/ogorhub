@@ -36,7 +36,7 @@ const newsArticles = [
         image: "images/ogooner.png"
     },
         {
-        title: "How is ogorbatch dealing with the ogor-deprivation?",
+        title: "Where are the ogorviews?",
         content: "<p>One may think that banning the ogorbatch google account may be devasting enough, but one would be wrong. One may think that locking the phone verification to said recently recovered account would be the most devasting, but one would be wrong. Because the goog sees no limits, and this time one will discover that the new ogorback youtube channel has been cursed by the goog once more. As seen in the photo, the ogorback youtube account has been robbed of all its deserved views. Youtube is trying to hide ogorbatch from the world and we wont ogorstand for it! #downwiththegoog</p>",
         next: "Find out next time: when will ogorbatch ogorretire?",
         date: "29/01/2026",
