@@ -42,6 +42,13 @@ const newsArticles = [
         date: "29/01/2026",
         image: "images/ogorviews.png"
     },
+    {
+        title: "Episode 3: Return of the Ogor",
+        content: "<p>In an unexpected turn of events the @ogorbatch Youtube channel has been rightfully returned to our plane of existence. The news was delivered to the official ogorbatch conversation room, at exactly 17:00 Saturday 28/02/2026 AEDT. This was quite shocking news as at this point it was believed to have been ogover. But as google returned to the light side, and the second unban form was destroyed, we can finally say we are ogorvictorious at last.</p><p>Thank you all our ogorsupporters who help support us through this, this would have been possible without you!</p>",
+        next: "Find out next time: Is ogorbatch longform just a meer hoax?",
+        date: "01/03/2026",
+        image: "images/welcomeogorback.png"
+    },
 ]
 
 let newsIndex = newsArticles.length - 1;
